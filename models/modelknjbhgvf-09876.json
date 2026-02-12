@@ -1,0 +1,15 @@
+{
+  "title": "modelknjbhgvf-09876",
+  "x-stoplight": {
+    "id": "149u1dbr8li4q"
+  },
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "loheeqi4v71s4"
+      }
+    }
+  }
+}

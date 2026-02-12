@@ -1,0 +1,10 @@
+title: model12345
+x-stoplight:
+  id: o9a9ca8d7koqw
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: 8ztieezs7a9u3
+x-internal: true
